@@ -10,3 +10,4 @@ alias mv='mv -i'
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
+export PS1="\[\e[34;1m\][\u@\h] \[\e[0m\]\A \[\e[33;4m\]\w\[\e[0m\]\\$ "
