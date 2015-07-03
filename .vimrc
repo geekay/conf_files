@@ -18,3 +18,4 @@ set number
 set foldmethod=indent
 nnoremap <space> za
 vnoremap <space> zf
+set fileencodings=utf-8,cp1251,koi8-r,cp866
