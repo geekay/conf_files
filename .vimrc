@@ -15,7 +15,7 @@ set showcmd
 set listchars=tab:--
 set list
 set number
-set foldmethod=indent
+set foldmethod=syntax
 nnoremap <space> za
 vnoremap <space> zf
 set fileencodings=utf-8,cp1251,koi8-r,cp866
