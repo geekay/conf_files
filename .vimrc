@@ -15,6 +15,7 @@ set showcmd
 set listchars=tab:--
 set list
 set number
+set mouse-=a # disable automatic visual mode with mouse select
 set foldmethod=syntax
 nnoremap <space> za
 vnoremap <space> zf
